@@ -13,7 +13,9 @@ A modern React counter app with theme switching and persistent state.
 - Vite
 
 ## Screenshot
-(add screenshot here)
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ## Run locally
 npm install
